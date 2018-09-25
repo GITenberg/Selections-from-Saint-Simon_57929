@@ -1,0 +1,32 @@
+_repo: Selections-from-Saint-Simon_57929
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Saint-Simon, Louis de Rouvroy, duc de
+    aliases:
+    - De Rouvroy, Louis, duc de Saint-Simon
+    - Rouvroy, Louis de, duc de Saint-Simon
+    birthdate: 1675
+    deathdate: 1755
+    gutenberg_agent_id: '1332'
+    url: http://www.gutenberg.org/2009/agents/1332
+  editor:
+    agent_name: Tilley, Arthur
+    gutenberg_agent_id: '49689'
+    url: http://www.gutenberg.org/2009/agents/49689
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2018-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57929'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Selections from Saint-Simon
+url: http://www.gutenberg.org/ebooks/57929
