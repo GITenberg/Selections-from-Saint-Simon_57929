@@ -1,5 +1,8 @@
 _repo: Selections-from-Saint-Simon_57929
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57929-h/images/cover-s.jpg
 creator:
   author:
     agent_name: Saint-Simon, Louis de Rouvroy, duc de
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '49689'
     url: http://www.gutenberg.org/2009/agents/49689
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57929#Selections-from-Saint-Simon
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Biographie, Mémoires, Journal intime, Correspondance
